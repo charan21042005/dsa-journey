@@ -81,9 +81,6 @@ to structure my preparation and track topic coverage:
 ---
 
 ## 🧩 Problem Practice Resources
-
-## 🧩 Problem Practice Resources
-
 For consistent and structured problem practice, the following platforms are referenced:
 
 - [LeetCode – Problem Set](https://leetcode.com/problemset/)
