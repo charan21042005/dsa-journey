@@ -104,3 +104,6 @@ This repository is **updated regularly** with:
 ---
 
 ⭐ *Consistency over intensity. Learning one step at a time.*
+
+
+Monday 
