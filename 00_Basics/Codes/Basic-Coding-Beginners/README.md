@@ -50,26 +50,27 @@ This makes it easy to:
 
 ## 📋 List of Programs (will be updated)
 
-| No. | Program Name | Practice Problem | Solution File |
-|----:|--------------|------------------|---------------|
-| 1 | Hello World | [GFG Problem](https://www.geeksforgeeks.org/problems/c-hello-world3402/1) | `1.hello_world.cpp` |
-| 2 | Fizz Buzz Program | [GFG Problem](https://www.geeksforgeeks.org/problems/the-fizzbuzz-program/1) | `2.fizz_buzz.cpp` |
-| 3 | Print Each Word in New Line | [GFG Problem](https://www.geeksforgeeks.org/problems/the-new-line/1) | `3.the_new_line.cpp` |
-| 4 | Swap the Numbers | [GFG Problem](https://www.geeksforgeeks.org/problems/swap-the-numbers--150024/1) | `4.swap_the_numbers.cpp` |
-| 5 | Binary to Decimal Conversion | [GFG Problem](https://www.geeksforgeeks.org/problems/binary-number-to-decimal-number3525/1) | `5.binary_to_decimal.cpp` |
-| 6 | Learn to Comment | [GFG Problem](https://www.geeksforgeeks.org/problems/learn-to-comment/1) | `6.learn_to_comment.cpp` |
-| 7 | Find Element at Given Index | [GFG Problem](https://www.geeksforgeeks.org/problems/c-array-print-an-element-set-25933/1) | `7.find_element_at_index.cpp` |
-| 8 | For Loop – Prime Check | [GFG Problem](https://www.geeksforgeeks.org/problems/for-loop-primechecl/1) | `8.for_loop_prime_check.cpp` |
-| 9 | Addition of Two Numbers | [GFG Problem](https://www.geeksforgeeks.org/problems/addition-of-two-numbers0812/1) | `9.addition_of_two_numbers.cpp` |
-|10 | Function with Return Value | [GFG Problem](https://www.geeksforgeeks.org/problems/function-with-return-value/1) | `10.function_with_return_value.cpp` |
-|11 | Compare Number with Five | [GFG Problem](https://www.geeksforgeeks.org/problems/c-if-else-decision-making4138/1) | `11.compare_number_with_five.cpp` |
-|12 | Type Conversion | [GFG Problem](https://www.geeksforgeeks.org/problems/type-conversion--151956/1) | `12.type_conversion.cpp` |
-|13 | Check Prime Number | [GFG Problem](https://www.geeksforgeeks.org/problems/check-prime/1) | `13.check_prime.cpp` |
-|14 | Data Types | [GFG Problem](https://www.geeksforgeeks.org/problems/data-types/1) | `14.data_types.cpp` |
-|15 | C++ Input / Output – Multiplication | [GFG Problem](https://www.geeksforgeeks.org/problems/c-input-output2432/1) | `15.cpp_input_output_multiplication.cpp` |
+| No. | Program Name | Practice Problem | Solution |
+|----:|--------------|------------------|----------|
+| 1 | Hello World | [GFG](https://www.geeksforgeeks.org/problems/c-hello-world3402/1) | [1.hello_world.cpp](./1.hello_world.cpp) |
+| 2 | Fizz Buzz Program | [GFG](https://www.geeksforgeeks.org/problems/the-fizzbuzz-program/1) | [2.fizz_buzz.cpp](./2.fizz_buzz.cpp) |
+| 3 | Print Each Word in New Line | [GFG](https://www.geeksforgeeks.org/problems/the-new-line/1) | [3.the_new_line.cpp](./3.the_new_line.cpp) |
+| 4 | Swap the Numbers | [GFG](https://www.geeksforgeeks.org/problems/swap-the-numbers--150024/1) | [4.swap_the_numbers.cpp](./4.swap_the_numbers.cpp) |
+| 5 | Binary to Decimal Conversion | [GFG](https://www.geeksforgeeks.org/problems/binary-number-to-decimal-number3525/1) | [5.binary_to_decimal.cpp](./5.binary_to_decimal.cpp) |
+| 6 | Learn to Comment | [GFG](https://www.geeksforgeeks.org/problems/learn-to-comment/1) | [6.learn_to_comment.cpp](./6.learn_to_comment.cpp) |
+| 7 | Find Element at Given Index | [GFG](https://www.geeksforgeeks.org/problems/c-array-print-an-element-set-25933/1) | [7.find_element_at_index.cpp](./7.find_element_at_index.cpp) |
+| 8 | For Loop – Prime Check | [GFG](https://www.geeksforgeeks.org/problems/for-loop-primechecl/1) | [8.for_loop_prime_check.cpp](./8.for_loop_prime_check.cpp) |
+| 9 | Addition of Two Numbers | [GFG](https://www.geeksforgeeks.org/problems/addition-of-two-numbers0812/1) | [9.addition_of_two_numbers.cpp](./9.addition_of_two_numbers.cpp) |
+|10 | Function with Return Value | [GFG](https://www.geeksforgeeks.org/problems/function-with-return-value/1) | [10.function_with_return_value.cpp](./10.function_with_return_value.cpp) |
+|11 | Compare Number with Five | [GFG](https://www.geeksforgeeks.org/problems/c-if-else-decision-making4138/1) | [11.compare_number_with_five.cpp](./11.compare_number_with_five.cpp) |
+|12 | Type Conversion | [GFG](https://www.geeksforgeeks.org/problems/type-conversion--151956/1) | [12.type_conversion.cpp](./12.type_conversion.cpp) |
+|13 | Check Prime Number | [GFG](https://www.geeksforgeeks.org/problems/check-prime/1) | [13.check_prime.cpp](./13.check_prime.cpp) |
+|14 | Data Types | [GFG](https://www.geeksforgeeks.org/problems/data-types/1) | [14.data_types.cpp](./14.data_types.cpp) |
+|15 | C++ Input / Output – Multiplication | [GFG](https://www.geeksforgeeks.org/problems/c-input-output2432/1) | [15.cpp_input_output_multiplication.cpp](./15.cpp_input_output_multiplication.cpp) |
 
-> 🔹 Click **GFG Problem** to practice,  
-> 🔹 Click the **`.cpp` file** to view the solution.
+> 🔹 Click **GFG** to practice the problem  
+> 🔹 Click the **Solution file** to view the complete C++ implementation
+
 
 
 > 🔹 More programs will be added as I continue practicing.
