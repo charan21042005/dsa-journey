@@ -1,66 +1,65 @@
-/*
----------------------------------------------------------
-FizzBuzz Program
----------------------------------------------------------
-
-This problem is solved in two formats:
-
-1) GeeksforGeeks platform format (ACTIVE)
-2) Normal C++ program format (for understanding)
----------------------------------------------------------
-*/
-
-// ==========================
-// GeeksforGeeks Solution
-// ==========================
+/*******************************************************
+ * Problem: FizzBuzz
+ * Platform: GeeksforGeeks + Local Practice
+ *
+ * Rules:
+ * - Print "FizzBuzz" if number divisible by 3 and 5
+ * - Print "Fizz" if divisible by 3
+ * - Print "Buzz" if divisible by 5
+ * - Else print the number itself
+ *******************************************************/
 
 #include <iostream>
 using namespace std;
 
-class Solution {
-public:
-    void fizzBuzz(int n) {
-        for (int i = 1; i <= n; i++) {
+/* =====================================================
+   ✅ GEEKSFORGEEKS VERSION
+   -----------------------------------------------------
+   - DO NOT write main()
+   - GFG already provides main() internally
+   - Use ONLY this function while submitting on GFG
+   ===================================================== */
 
-            if (i % 3 == 0 && i % 5 == 0) {
-                cout << "FizzBuzz ";
-            }
-            else if (i % 3 == 0) {
-                cout << "Fizz ";
-            }
-            else if (i % 5 == 0) {
-                cout << "Buzz ";
-            }
-            else {
-                cout << i << " ";
-            }
-        }
+void fizzBuzz(int number) {
+
+    // Check divisibility by both 3 and 5 first
+    if (number % 3 == 0 && number % 5 == 0) {
+        cout << "FizzBuzz" << endl;
     }
-};
+    // Check divisibility by 3
+    else if (number % 3 == 0) {
+        cout << "Fizz" << endl;
+    }
+    // Check divisibility by 5
+    else if (number % 5 == 0) {
+        cout << "Buzz" << endl;
+    }
+    // If none of the above conditions are true
+    else {
+        cout << number << endl;
+    }
+}
+
+/* =====================================================
+   ✅ REGULAR C++ VERSION (FOR LOCAL PRACTICE)
+   -----------------------------------------------------
+   - Uncomment main() below to run locally
+   - Comment out this main() before GFG submission
+   ===================================================== */
 
 /*
-====================================
-Normal C++ Program (For Understanding)
-====================================
-
-#include <iostream>
-using namespace std;
-
 int main() {
-    int n;
-    cin >> n;
 
-    for (int i = 1; i <= n; i++) {
-        if (i % 3 == 0 && i % 5 == 0)
-            cout << "FizzBuzz ";
-        else if (i % 3 == 0)
-            cout << "Fizz ";
-        else if (i % 5 == 0)
-            cout << "Buzz ";
-        else
-            cout << i << " ";
-    }
+    int number;
 
+    // Taking input from user
+    cout << "Enter a number: ";
+    cin >> number;
+
+    // Calling the fizzBuzz function
+    fizzBuzz(number);
+
+    // Program executed successfully
     return 0;
 }
 */
