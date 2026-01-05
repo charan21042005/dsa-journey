@@ -42,6 +42,7 @@ Maths & logic problems help you:
 ├── 8_gcd_of_two_numbers.cpp
 ├── 9_lcm_of_two_numbers.cpp
 ├── 10_perfect_number.cpp
+├── .......
 └── README.md
 ```
 ## 📝 Notes
