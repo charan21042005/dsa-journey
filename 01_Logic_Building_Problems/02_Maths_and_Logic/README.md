@@ -28,34 +28,63 @@ Maths & logic problems help you:
 
 ---
 
-## 📂 Folder Structure
+## 📁 Folder Structure (Updated)
 
 ```text
 02_Maths_and_Logic/
-│
-├── 1_sum_of_digits.cpp
-├── 2_reverse_number.cpp
-├── 3_check_prime.cpp
-├── 4_gcd_lcm.cpp
-├── ...
+├── 1_odd_or_even.cpp
+├── 2_floor_and_ceil.cpp
+├── 3_sum_of_series.cpp
+├── 4_sum_of_digits.cpp
+├── 5_closest_number.cpp
+├── 6_decimal_to_binary.cpp
+├── 7_angle_between_clock_hands.cpp
+├── 8_gcd_of_two_numbers.cpp
+├── 9_lcm_of_two_numbers.cpp
+├── 10_perfect_number.cpp
 └── README.md
 ```
-* Each problem is written in a separate `.cpp` file
-* Files are `numbered sequentially`
-* Naming clearly reflects the `problem intent`
-* Designed to support `future multi-language expansion` (C++ / Java / Python)
+## 📝 Notes
+* Each problem is implemented in a **separate `.cpp` file**
+* Files are **numbered sequentially for easy tracking**
+* File names clearly describe the **problem intent**
+* Structure is designed to support **future multi-language expansion**
+(C++ / Java / Python)
+
 
 ## 📋 Daily Practice Tracker – Maths & Logic Problems
 
-> 🔹 This table is updated **daily** as I solve new maths and logic problems.
+> This table is updated **daily** as I solve new Maths & Logic problems.  
+> Each solution file is **clickable** and opens the corresponding `.cpp` code directly.
 
-| No. | Problem Name | Difficulty | Problem Link | Solution |
-|----:|-------------|------------|--------------|----------|
-| 1 | Sum of Digits of a Number | Easy | 🔗 [View Problem](#) | 💻 [`1_sum_of_digits.cpp`](./1_sum_of_digits.cpp) |
-| 2 | Reverse a Number | Easy | 🔗 [View Problem](#) | 💻 [`2_reverse_number.cpp`](./2_reverse_number.cpp) |
-| 3 | Check Prime Number | Easy | 🔗 [View Problem](#) | 💻 [`3_check_prime.cpp`](./3_check_prime.cpp) |
-| 4 | GCD and LCM | Easy | 🔗 [View Problem](#) | 💻 [`4_gcd_lcm.cpp`](./4_gcd_lcm.cpp) |
-| 5 | Count Digits in a Number | Easy | 🔗 [View Problem](#) | 💻 [`5_count_digits.cpp`](./5_count_digits.cpp) |
+| No. | Problem Name | Difficulty | Platform | Problem Link | Solution |
+|----:|-------------|------------|----------|--------------|----------|
+| 1 | Odd or Even | 🟢 Easy | GeeksforGeeks | 🔗 [View Problem](https://www.geeksforgeeks.org/problems/odd-or-even3618/1) | 📄 [1_odd_or_even.cpp](./1_odd_or_even.cpp) |
+| 2 | Floor and Ceil of Integer Division | 🟢 Easy | GeeksforGeeks | 🔗 [View Problem](https://www.geeksforgeeks.org/problems/floor-and-ceil-of-integer-division/1) | 📄 [2_floor_and_ceil.cpp](./2_floor_and_ceil.cpp) |
+| 3 | Sum of Series | 🟢 Easy | GeeksforGeeks | 🔗 [View Problem](https://www.geeksforgeeks.org/problems/sum-of-series2811/1) | 📄 [3_sum_of_series.cpp](./3_sum_of_series.cpp) |
+| 4 | Sum of Digits | 🟢 Easy | GeeksforGeeks | 🔗 [View Problem](https://www.geeksforgeeks.org/problems/sum-of-digits1742/1) | 📄 [4_sum_of_digits.cpp](./4_sum_of_digits.cpp) |
+| 5 | Closest Number | 🟠 Medium | GeeksforGeeks | 🔗 [View Problem](https://www.geeksforgeeks.org/problems/closest-number5728/1) | 📄 [5_closest_number.cpp](./5_closest_number.cpp) |
+| 6 | Decimal to Binary | 🟢 Easy | GeeksforGeeks | 🔗 [View Problem](https://www.geeksforgeeks.org/problems/decimal-to-binary-1610434291/1) | 📄 [6_decimal_to_binary.cpp](./6_decimal_to_binary.cpp) |
+| 7 | Angle Between Hour and Minute Hand | 🟠 Medium | GeeksforGeeks | 🔗 [View Problem](https://www.geeksforgeeks.org/problems/angle-between-hour-and-minute-hand0545/1) | 📄 [7_angle_between_clock_hands.cpp](./7_angle_between_clock_hands.cpp) |
+| 8 | GCD of Two Numbers | 🟢 Easy | GeeksforGeeks | 🔗 [View Problem](https://www.geeksforgeeks.org/problems/gcd-of-two-numbers3459/1) | 📄 [8_gcd_of_two_numbers.cpp](./8_gcd_of_two_numbers.cpp) |
+| 9 | LCM of Two Numbers | 🟢 Easy | GeeksforGeeks | 🔗 [View Problem](https://www.geeksforgeeks.org/problems/lcm-of-two-numbers/1) | 📄 [9_lcm_of_two_numbers.cpp](./9_lcm_of_two_numbers.cpp) |
+| 10 | Perfect Number | 🟢 Easy | GeeksforGeeks | 🔗 [View Problem](https://www.geeksforgeeks.org/problems/perfect-numbers3207/1) | 📄 [10_perfect_number.cpp](./10_perfect_number.cpp) |
+
+---
+
+### 🧠 Legend
+
+- 🟢 **Easy**
+- 🟠 **Medium**
+- 🔴 **Hard**
+
+📌 *Clicking on the solution file opens the corresponding `.cpp` file directly.*
+
+🚀 This tracker will grow daily with:
+- New problems
+- Better explanations
+- Cleaner & optimized solutions
+
 
 📌 **Clicking on the solution file opens the corresponding `.cpp` file directly.**
 
