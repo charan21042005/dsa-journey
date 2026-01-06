@@ -56,20 +56,31 @@ Maths & logic problems help you:
 ## 📋 Daily Practice Tracker – Maths & Logic Problems
 
 > This table is updated **daily** as I solve new Maths & Logic problems.  
-> Each solution file is **clickable** and opens the corresponding `.cpp` code directly.
+> Clicking the **solution file** opens the corresponding `.cpp` code directly.
 
 | No. | Problem Name | Difficulty | Platform | Problem Link | Solution |
-|----:|-------------|------------|----------|--------------|----------|
-| 1 | Odd or Even | 🟢 Easy | GeeksforGeeks | 🔗 [View Problem](https://www.geeksforgeeks.org/problems/odd-or-even3618/1) | 📄 [1_odd_or_even.cpp](./1_odd_or_even.cpp) |
-| 2 | Floor and Ceil of Integer Division | 🟢 Easy | GeeksforGeeks | 🔗 [View Problem](https://www.geeksforgeeks.org/problems/floor-and-ceil-of-integer-division/1) | 📄 [2_floor_and_ceil.cpp](./2_floor_and_ceil.cpp) |
-| 3 | Sum of Series | 🟢 Easy | GeeksforGeeks | 🔗 [View Problem](https://www.geeksforgeeks.org/problems/sum-of-series2811/1) | 📄 [3_sum_of_series.cpp](./3_sum_of_series.cpp) |
-| 4 | Sum of Digits | 🟢 Easy | GeeksforGeeks | 🔗 [View Problem](https://www.geeksforgeeks.org/problems/sum-of-digits1742/1) | 📄 [4_sum_of_digits.cpp](./4_sum_of_digits.cpp) |
-| 5 | Closest Number | 🟠 Medium | GeeksforGeeks | 🔗 [View Problem](https://www.geeksforgeeks.org/problems/closest-number5728/1) | 📄 [5_closest_number.cpp](./5_closest_number.cpp) |
-| 6 | Decimal to Binary | 🟢 Easy | GeeksforGeeks | 🔗 [View Problem](https://www.geeksforgeeks.org/problems/decimal-to-binary-1610434291/1) | 📄 [6_decimal_to_binary.cpp](./6_decimal_to_binary.cpp) |
-| 7 | Angle Between Hour and Minute Hand | 🟠 Medium | GeeksforGeeks | 🔗 [View Problem](https://www.geeksforgeeks.org/problems/angle-between-hour-and-minute-hand0545/1) | 📄 [7_angle_between_clock_hands.cpp](./7_angle_between_clock_hands.cpp) |
-| 8 | GCD of Two Numbers | 🟢 Easy | GeeksforGeeks | 🔗 [View Problem](https://www.geeksforgeeks.org/problems/gcd-of-two-numbers3459/1) | 📄 [8_gcd_of_two_numbers.cpp](./8_gcd_of_two_numbers.cpp) |
-| 9 | LCM of Two Numbers | 🟢 Easy | GeeksforGeeks | 🔗 [View Problem](https://www.geeksforgeeks.org/problems/lcm-of-two-numbers/1) | 📄 [9_lcm_of_two_numbers.cpp](./9_lcm_of_two_numbers.cpp) |
-| 10 | Perfect Number | 🟢 Easy | GeeksforGeeks | 🔗 [View Problem](https://www.geeksforgeeks.org/problems/perfect-numbers3207/1) | 📄 [10_perfect_number.cpp](./10_perfect_number.cpp) |
+|----:|-------------|-----------|----------|--------------|----------|
+| 1 | Odd or Even | 🟢 Easy | GeeksforGeeks | [View Problem](https://www.geeksforgeeks.org/problems/odd-or-even3618/1) | [`1_odd_or_even.cpp`](./1_odd_or_even.cpp) |
+| 2 | Floor and Ceil of Integer Division | 🟢 Easy | GeeksforGeeks | [View Problem](https://www.geeksforgeeks.org/problems/floor-and-ceil-of-integer-division/1) | [`2_floor_and_ceil_division.cpp`](./2_floor_and_ceil_division.cpp) |
+| 3 | Sum of Series | 🟢 Easy | GeeksforGeeks | [View Problem](https://www.geeksforgeeks.org/problems/sum-of-series2811/1) | [`3_sum_of_series.cpp`](./3_sum_of_series.cpp) |
+| 4 | Sum of Digits | 🟢 Easy | GeeksforGeeks | [View Problem](https://www.geeksforgeeks.org/problems/sum-of-digits1742/1) | [`4_sum_of_digits.cpp`](./4_sum_of_digits.cpp) |
+| 5 | Closest Number | 🟠 Medium | GeeksforGeeks | [View Problem](https://www.geeksforgeeks.org/problems/closest-number5728/1) | [`5_closest_number.cpp`](./5_closest_number.cpp) |
+| 6 | Decimal to Binary | 🟢 Easy | GeeksforGeeks | [View Problem](https://www.geeksforgeeks.org/problems/decimal-to-binary-1610434291/1) | [`6_decimal_to_binary.cpp`](./6_decimal_to_binary.cpp) |
+| 7 | Angle Between Hour and Minute Hand | 🟠 Medium | GeeksforGeeks | [View Problem](https://www.geeksforgeeks.org/problems/angle-between-hour-and-minute-hand0545/1) | [`7_angle_between_hour_and_minute_hand.cpp`](./7_angle_between_hour_and_minute_hand.cpp) |
+| 8 | GCD of Two Numbers | 🟢 Easy | GeeksforGeeks | [View Problem](https://www.geeksforgeeks.org/problems/gcd-of-two-numbers3459/1) | [`8_gcd_of_two_numbers.cpp`](./8_gcd_of_two_numbers.cpp) |
+| 9 | LCM of Two Numbers | 🟢 Easy | GeeksforGeeks | [View Problem](https://www.geeksforgeeks.org/problems/lcm-of-two-numbers/1) | [`9_lcm_of_two_numbers.cpp`](./9_lcm_of_two_numbers.cpp) |
+| 10 | Perfect Number | 🟢 Easy | GeeksforGeeks | [View Problem](https://www.geeksforgeeks.org/problems/perfect-numbers3207/1) | [`10_perfect_number.cpp`](./10_perfect_number.cpp) |
+| 11 | Divisible by 13 | 🟢 Easy | GeeksforGeeks | [View Problem](https://www.geeksforgeeks.org/problems/divisible-by-13/1) | [`11_divisible_by_13.cpp`](./11_divisible_by_13.cpp) |
+| 12 | Floor Square Root | 🟢 Easy | GeeksforGeeks | [View Problem](https://www.geeksforgeeks.org/problems/square-root/1) | [`12_floor_square_root.cpp`](./12_floor_square_root.cpp) |
+| 13 | All Divisors | 🟢 Easy | GeeksforGeeks | [View Problem](https://www.geeksforgeeks.org/problems/all-divisors/1) | [`13_all_divisors.cpp`](./13_all_divisors.cpp) |
+| 14 | Prime Number | 🟢 Easy | GeeksforGeeks | [View Problem](https://www.geeksforgeeks.org/problems/prime-number2314/1) | [`14_prime_number.cpp`](./14_prime_number.cpp) |
+| 15 | Check Prime (Standalone) | 🟢 Easy | GeeksforGeeks | [View Problem](https://www.geeksforgeeks.org/problems/check-prime--153305/1) | [`15_check_prime_standalone.cpp`](./15_check_prime_standalone.cpp) |
+| 16 | Sieve of Eratosthenes | 🟠 Medium | GeeksforGeeks | [View Problem](https://www.geeksforgeeks.org/problems/sieve-of-eratosthenes5242/1) | [`16_sieve_of_eratosthenes.cpp`](./16_sieve_of_eratosthenes.cpp) |
+| 17 | Prime Factors (Distinct) | 🟠 Medium | GeeksforGeeks | [View Problem](https://www.geeksforgeeks.org/problems/prime-factors5052/1) | [`17_prime_factors.cpp`](./17_prime_factors.cpp) |
+| 18 | Prime Factorization | 🟠 Medium | GeeksforGeeks | [View Problem](https://www.geeksforgeeks.org/problems/prime-factorization/1) | [`18_prime_factorization.cpp`](./18_prime_factorization.cpp) |
+| 19 | Modular Multiplication | 🟠 Medium | GeeksforGeeks | [View Problem](https://www.geeksforgeeks.org/problems/modular-multiplication/1) | [`19_modular_multiplication.cpp`](./19_modular_multiplication.cpp) |
+| 20 | Modular Inverse Division | 🔴 Hard | GeeksforGeeks | [View Problem](https://www.geeksforgeeks.org/problems/inverse-division/1) | [`20_modular_inverse_division.cpp`](./20_modular_inverse_division.cpp) |
+
 
 ---
 
