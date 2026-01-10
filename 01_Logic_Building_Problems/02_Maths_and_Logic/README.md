@@ -58,6 +58,15 @@ Maths & logic problems help you:
 > This table is updated regularly as I solve new Maths & Logic problems.  
 > Each solution file is clickable and opens the corresponding `.cpp` file directly.
 
+## 📋 Daily Practice Tracker – Maths & Logic Problems
+
+> This table is updated at the end of each practice day.  
+> Each solution includes:
+
+> - GFG-accepted method
+> - Multiple alternative approaches (commented)
+> - One full standalone C++ program for local practice
+
 | No. | Problem Name | Difficulty | Platform | Problem Link | Solution |
 |----:|--------------|------------|----------|--------------|----------|
 | 1 | Odd or Even | 🟢 Easy | GeeksforGeeks | 🔗 [View Problem](https://www.geeksforgeeks.org/problems/odd-or-even3618/1) | 📄 [1_odd_or_even.cpp](./1_odd_or_even.cpp) |
@@ -86,7 +95,10 @@ Maths & logic problems help you:
 | 24 | Count Numbers Divisible by Given Primes | 🔴 Hard | GeeksforGeeks | 🔗 [View Problem](https://www.geeksforgeeks.org/problems/count-numbers-divisible-by-given-primes/0) | 📄 [24_count_numbers_divisible_by_given_primes.cpp](./24_count_numbers_divisible_by_given_primes.cpp) |
 | 25 | Count Special Numbers | 🔴 Hard | GeeksforGeeks | 🔗 [View Problem](https://www.geeksforgeeks.org/problems/count-special-numbers--170647/1) | 📄 [25_count_special_numbers.cpp](./25_count_special_numbers.cpp) |
 | 26 | Series with Largest GCD and Sum Equals to N | 🔴 Hard | GeeksforGeeks | 🔗 [View Problem](https://www.geeksforgeeks.org/problems/series-with-largest-gcd-and-sum-equals-to-n1151/1) | 📄 [26_series_with_largest_gcd.cpp](./26_series_with_largest_gcd.cpp) |
-
+| 27 | Opposite Face of Dice | 🟢 Easy | GeeksforGeeks | 🔗 [View Problem](https://www.geeksforgeeks.org/problems/the-dice-problem2316/1) | 📄 [27_opposite_face_of_dice.cpp](./27_opposite_face_of_dice.cpp) |
+| 28 | Swap Two Numbers | 🟢 Easy | GeeksforGeeks | 🔗 [View Problem](https://www.geeksforgeeks.org/problems/swap-two-numbers3844/1) | 📄 [28_swap_two_numbers.cpp](./28_swap_two_numbers.cpp) |
+| 29 | Series AP | 🟢 Easy | GeeksforGeeks | 🔗 [View Problem](https://www.geeksforgeeks.org/problems/series-ap5310/1) | 📄 [29_series_ap.cpp](./29_series_ap.cpp) |
+| 30 | Reverse Digits | 🟢 Easy | GeeksforGeeks | 🔗 [View Problem](https://www.geeksforgeeks.org/problems/reverse-digit0316/1) | 📄 [30_reverse_digits.cpp](./30_reverse_digits.cpp) |
 
 ---
 
