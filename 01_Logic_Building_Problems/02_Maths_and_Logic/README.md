@@ -99,6 +99,9 @@ Maths & logic problems help you:
 | 28 | Swap Two Numbers | 🟢 Easy | GeeksforGeeks | 🔗 [View Problem](https://www.geeksforgeeks.org/problems/swap-two-numbers3844/1) | 📄 [28_swap_two_numbers.cpp](./28_swap_two_numbers.cpp) |
 | 29 | Series AP | 🟢 Easy | GeeksforGeeks | 🔗 [View Problem](https://www.geeksforgeeks.org/problems/series-ap5310/1) | 📄 [29_series_ap.cpp](./29_series_ap.cpp) |
 | 30 | Reverse Digits | 🟢 Easy | GeeksforGeeks | 🔗 [View Problem](https://www.geeksforgeeks.org/problems/reverse-digit0316/1) | 📄 [30_reverse_digits.cpp](./30_reverse_digits.cpp) |
+| 31 | Check if Number is Power of Another | 🟢 Easy | GeeksforGeeks | 🔗 [View Problem](https://www.geeksforgeeks.org/problems/check-if-a-number-is-power-of-another-number5442/1) | 📄 [31_check_if_number_is_power_of_another.cpp](./31_check_if_number_is_power_of_another.cpp) |
+| 32 | Valid Triangle | 🟢 Easy | GeeksforGeeks | 🔗 [View Problem](https://www.geeksforgeeks.org/problems/valid-triangle--121441/1) | 📄 [32_valid_triangle.cpp](./32_valid_triangle.cpp) |
+| 33 | Overlapping Rectangles | 🟠 Medium | GeeksforGeeks | 🔗 [View Problem](https://www.geeksforgeeks.org/problems/overlapping-rectangles1924/1) | 📄 [33_overlapping_rectangles.cpp](./33_overlapping_rectangles.cpp) |
 
 ---
 
