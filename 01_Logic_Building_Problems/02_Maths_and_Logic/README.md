@@ -107,6 +107,9 @@ Maths & logic problems help you:
 | 36 | Pair Cube Count | 🟢 Easy | GeeksforGeeks | 🔗 [View Problem](https://www.geeksforgeeks.org/problems/pair-cube-count4132/1) | 📄 [36_pair_cube_count.cpp](./36_pair_cube_count.cpp) |
 | 37 | Add Two Fractions | 🟢 Easy | GeeksforGeeks | 🔗 [View Problem](https://www.geeksforgeeks.org/problems/add-two-fractions/1) | 📄 [37_add_two_fractions.cpp](./37_add_two_fractions.cpp) |
 | 38 | Day of the Week | 🟢 Easy | GeeksforGeeks | 🔗 [View Problem](https://www.geeksforgeeks.org/problems/day-of-the-week1637/1) | 📄 [38_day_of_the_week.cpp](./38_day_of_the_week.cpp) |
+| 39 | Nth Fibonacci Number | 🟢 Easy | GeeksforGeeks | [View Problem](https://www.geeksforgeeks.org/problems/nth-fibonacci-number1335/1) | [`39_nth_fibonacci_number.cpp`](39_nth_fibonacci_number.cpp) |
+| 40 | Decimal to Binary | 🟢 Easy | GeeksforGeeks | [View Problem](https://www.geeksforgeeks.org/problems/decimal-to-binary-1610434291/1) | [`40_decimal_to_binary.cpp`](40_decimal_to_binary.cpp) |
+
 
 
 ---
