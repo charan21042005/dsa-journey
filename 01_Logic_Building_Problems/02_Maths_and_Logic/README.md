@@ -102,6 +102,12 @@ Maths & logic problems help you:
 | 31 | Check if Number is Power of Another | 🟢 Easy | GeeksforGeeks | 🔗 [View Problem](https://www.geeksforgeeks.org/problems/check-if-a-number-is-power-of-another-number5442/1) | 📄 [31_check_if_number_is_power_of_another.cpp](./31_check_if_number_is_power_of_another.cpp) |
 | 32 | Valid Triangle | 🟢 Easy | GeeksforGeeks | 🔗 [View Problem](https://www.geeksforgeeks.org/problems/valid-triangle--121441/1) | 📄 [32_valid_triangle.cpp](./32_valid_triangle.cpp) |
 | 33 | Overlapping Rectangles | 🟠 Medium | GeeksforGeeks | 🔗 [View Problem](https://www.geeksforgeeks.org/problems/overlapping-rectangles1924/1) | 📄 [33_overlapping_rectangles.cpp](./33_overlapping_rectangles.cpp) |
+| 34 | Distance Between Two Points | 🟢 Easy | GeeksforGeeks | 🔗 [View Problem](https://www.geeksforgeeks.org/problems/distance-between-2-points3200/1) | 📄 [34_distance_between_two_points.cpp](./34_distance_between_two_points.cpp) |
+| 35 | Factorial | 🟢 Easy | GeeksforGeeks | 🔗 [View Problem](https://www.geeksforgeeks.org/problems/factorial5739/1) | 📄 [35_factorial.cpp](./35_factorial.cpp) |
+| 36 | Pair Cube Count | 🟢 Easy | GeeksforGeeks | 🔗 [View Problem](https://www.geeksforgeeks.org/problems/pair-cube-count4132/1) | 📄 [36_pair_cube_count.cpp](./36_pair_cube_count.cpp) |
+| 37 | Add Two Fractions | 🟢 Easy | GeeksforGeeks | 🔗 [View Problem](https://www.geeksforgeeks.org/problems/add-two-fractions/1) | 📄 [37_add_two_fractions.cpp](./37_add_two_fractions.cpp) |
+| 38 | Day of the Week | 🟢 Easy | GeeksforGeeks | 🔗 [View Problem](https://www.geeksforgeeks.org/problems/day-of-the-week1637/1) | 📄 [38_day_of_the_week.cpp](./38_day_of_the_week.cpp) |
+
 
 ---
 
