@@ -73,7 +73,7 @@ Maths & logic problems help you:
 | 2 | Floor and Ceil of Integer Division | 🟢 Easy | GeeksforGeeks | 🔗 [View Problem](https://www.geeksforgeeks.org/problems/floor-and-ceil-of-integer-division/1) | 📄 [2_floor_and_ceil_division.cpp](./2_floor_and_ceil_division.cpp) |
 | 3 | Sum of Series | 🟢 Easy | GeeksforGeeks | 🔗 [View Problem](https://www.geeksforgeeks.org/problems/sum-of-series2811/1) | 📄 [3_sum_of_series.cpp](./3_sum_of_series.cpp) |
 | 4 | Sum of Digits | 🟢 Easy | GeeksforGeeks | 🔗 [View Problem](https://www.geeksforgeeks.org/problems/sum-of-digits1742/1) | 📄 [4_sum_of_digits.cpp](./4_sum_of_digits.cpp) |
-| 5 | Closest Number | 🟠 Medium | GeeksforGeeks | 🔗 [View Problem](https://www.geeksforgeeks.org/problems/closest-number5728/1) | 📄 [5_closest_number.cpp](./5_closest_number.cpp) |
+| 5 | Closest Number | 🟠Medium | GeeksforGeeks | 🔗 [View Problem](https://www.geeksforgeeks.org/problems/closest-number5728/1) | 📄 [5_closest_number.cpp](./5_closest_number.cpp) |
 | 6 | Decimal to Binary | 🟢 Easy | GeeksforGeeks | 🔗 [View Problem](https://www.geeksforgeeks.org/problems/decimal-to-binary-1610434291/1) | 📄 [6_decimal_to_binary.cpp](./6_decimal_to_binary.cpp) |
 | 7 | Angle Between Hour and Minute Hand | 🟠 Medium | GeeksforGeeks | 🔗 [View Problem](https://www.geeksforgeeks.org/problems/angle-between-hour-and-minute-hand0545/1) | 📄 [7_angle_between_hour_and_minute_hand.cpp](./7_angle_between_hour_and_minute_hand.cpp) |
 | 8 | GCD of Two Numbers | 🟢 Easy | GeeksforGeeks | 🔗 [View Problem](https://www.geeksforgeeks.org/problems/gcd-of-two-numbers3459/1) | 📄 [8_gcd_of_two_numbers.cpp](./8_gcd_of_two_numbers.cpp) |
