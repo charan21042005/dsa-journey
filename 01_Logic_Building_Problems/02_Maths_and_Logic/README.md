@@ -109,6 +109,10 @@ Maths & logic problems help you:
 | 38 | Day of the Week | 🟢 Easy | GeeksforGeeks | 🔗 [View Problem](https://www.geeksforgeeks.org/problems/day-of-the-week1637/1) | 📄 [38_day_of_the_week.cpp](./38_day_of_the_week.cpp) |
 | 39 | Nth Fibonacci Number | 🟢 Easy | GeeksforGeeks | 🔗 [View Problem](https://www.geeksforgeeks.org/problems/nth-fibonacci-number1335/1) | 📄 [39_nth_fibonacci_number.cpp](./39_nth_fibonacci_number.cpp) |
 | 40 | Decimal to Binary | 🟢 Easy | GeeksforGeeks | 🔗 [View Problem](https://www.geeksforgeeks.org/problems/decimal-to-binary-1610434291/1) | 📄 [40_decimal_to_binary.cpp](./40_decimal_to_binary.cpp) |
+| 41 | Armstrong Number | 🟢 Easy | GeeksforGeeks | 🔗 [View Problem](https://www.geeksforgeeks.org/problems/armstrong-numbers2727/1) | 📄 [41_armstrong_number.cpp](./41_armstrong_number.cpp) |
+| 42 | Palindrome Number | 🟢 Easy | GeeksforGeeks | 🔗 [View Problem](https://www.geeksforgeeks.org/problems/palindrome0746/1) | 📄 [42_palindrome_number.cpp](./42_palindrome_number.cpp) |
+| 43 | Palindrome Binary | 🟢 Easy | GeeksforGeeks | 🔗 [View Problem](https://www.geeksforgeeks.org/problems/palindrome-numbers0942/1) | 📄 [43_palindrome_binary.cpp](./43_palindrome_binary.cpp) |
+
 
 
 
