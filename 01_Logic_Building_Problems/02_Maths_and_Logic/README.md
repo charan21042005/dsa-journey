@@ -116,6 +116,8 @@ Maths & logic problems help you:
 | 45 | 3 Divisors | 🟠 Medium | GeeksforGeeks | 🔗 [View Problem](https://www.geeksforgeeks.org/problems/3-divisors3942/1) | 📄 [45_3_divisors.cpp](./45_3_divisors.cpp) |
 | 46 | Check if Divisible by 4 | 🟢 Easy | GeeksforGeeks | 🔗 [View Problem](https://www.geeksforgeeks.org/problems/check-if-divisible-by-43813/1) | 📄 [46_check_if_divisible_by_4.cpp](./46_check_if_divisible_by_4.cpp) |
 | 47 | Check if Divisible by 11 | 🟢 Easy | GeeksforGeeks | 🔗 [View Problem](https://www.geeksforgeeks.org/problems/check-if-divisible-by-114724/1) | 📄 [47_check_if_divisible_by_11.cpp](./47_check_if_divisible_by_11.cpp) |
+| 48 | Print the Kth Digit | 🟢 Easy | GeeksforGeeks | 🔗 [View Problem](https://www.geeksforgeeks.org/problems/print-the-kth-digit3520/1) | 📄 [48_print_the_kth_digit.cpp](./48_print_the_kth_digit.cpp) |
+
 
 
 
