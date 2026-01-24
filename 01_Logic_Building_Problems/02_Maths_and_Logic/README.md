@@ -119,6 +119,8 @@ Maths & logic problems help you:
 | 48 | Print the Kth Digit | 🟢 Easy | GeeksforGeeks | 🔗 [View Problem](https://www.geeksforgeeks.org/problems/print-the-kth-digit3520/1) | 📄 [48_print_the_kth_digit.cpp](./48_print_the_kth_digit.cpp) |
 | 49 | Fraction to Repeating Decimal | 🟠 Medium | GeeksforGeeks | 🔗 [View Problem](https://www.geeksforgeeks.org/problems/a-simple-fraction0921/1) | 📄 [49_fraction_to_repeating_decimal.cpp](./49_fraction_to_repeating_decimal.cpp) |
 | 50 | nPr | 🟢 Easy | GeeksforGeeks | 🔗 [View Problem](https://www.geeksforgeeks.org/problems/npr4253/1) | 📄 [50_nPr.cpp](./50_nPr.cpp) |
+| 51 | Pascal Triangle (Nth Row) | 🟠 Medium | GeeksforGeeks | 🔗 [View Problem](https://www.geeksforgeeks.org/problems/pascal-triangle0652/1) | 📄 [51_pascal_triangle.cpp](./51_pascal_triangle.cpp) |
+
 
 
 
