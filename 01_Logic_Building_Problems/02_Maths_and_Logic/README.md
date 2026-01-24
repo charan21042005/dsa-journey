@@ -118,6 +118,8 @@ Maths & logic problems help you:
 | 47 | Check if Divisible by 11 | 🟢 Easy | GeeksforGeeks | 🔗 [View Problem](https://www.geeksforgeeks.org/problems/check-if-divisible-by-114724/1) | 📄 [47_check_if_divisible_by_11.cpp](./47_check_if_divisible_by_11.cpp) |
 | 48 | Print the Kth Digit | 🟢 Easy | GeeksforGeeks | 🔗 [View Problem](https://www.geeksforgeeks.org/problems/print-the-kth-digit3520/1) | 📄 [48_print_the_kth_digit.cpp](./48_print_the_kth_digit.cpp) |
 | 49 | Fraction to Repeating Decimal | 🟠 Medium | GeeksforGeeks | 🔗 [View Problem](https://www.geeksforgeeks.org/problems/a-simple-fraction0921/1) | 📄 [49_fraction_to_repeating_decimal.cpp](./49_fraction_to_repeating_decimal.cpp) |
+| 50 | nPr | 🟢 Easy | GeeksforGeeks | 🔗 [View Problem](https://www.geeksforgeeks.org/problems/npr4253/1) | 📄 [50_nPr.cpp](./50_nPr.cpp) |
+
 
 
 
