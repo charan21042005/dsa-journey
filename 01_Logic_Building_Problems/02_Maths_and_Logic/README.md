@@ -121,6 +121,8 @@ Maths & logic problems help you:
 | 50 | nPr | 🟢 Easy | GeeksforGeeks | 🔗 [View Problem](https://www.geeksforgeeks.org/problems/npr4253/1) | 📄 [50_nPr.cpp](./50_nPr.cpp) |
 | 51 | Pascal Triangle (Nth Row) | 🟠 Medium | GeeksforGeeks | 🔗 [View Problem](https://www.geeksforgeeks.org/problems/pascal-triangle0652/1) | 📄 [51_pascal_triangle.cpp](./51_pascal_triangle.cpp) |
 | 52 | Largest Prime Factor | 🟠 Medium | GeeksforGeeks | 🔗 [View Problem](https://www.geeksforgeeks.org/problems/largest-prime-factor2601/1) | 📄 [52_largest_prime_factor.cpp](./52_largest_prime_factor.cpp) |
+| 53 | Modular Exponentiation | 🟠 Medium | GeeksforGeeks | 🔗 [View Problem](https://www.geeksforgeeks.org/problems/modular-exponentiation-for-large-numbers5537/1) | 📄 [53_modular_exponentiation.cpp](./53_modular_exponentiation.cpp) |
+
 
 
 
