@@ -123,6 +123,8 @@ Maths & logic problems help you:
 | 52 | Largest Prime Factor | 🟠 Medium | GeeksforGeeks | 🔗 [View Problem](https://www.geeksforgeeks.org/problems/largest-prime-factor2601/1) | 📄 [52_largest_prime_factor.cpp](./52_largest_prime_factor.cpp) |
 | 53 | Modular Exponentiation | 🟠 Medium | GeeksforGeeks | 🔗 [View Problem](https://www.geeksforgeeks.org/problems/modular-exponentiation-for-large-numbers5537/1) | 📄 [53_modular_exponentiation.cpp](./53_modular_exponentiation.cpp) |
 | 54 | Check Perfect Square | 🟢 Easy | GeeksforGeeks | 🔗 [View Problem](https://www.geeksforgeeks.org/problems/check-perfect-square5253/1) | 📄 [54_check_perfect_square.cpp](./54_check_perfect_square.cpp) |
+| 55 | Linear Diophantine Equations | 🟢 Easy | GeeksforGeeks | 🔗 [View Problem](https://www.geeksforgeeks.org/problems/linear-diophantine-equations5649/1) | 📄 [55_linear_diophantine_equations.cpp](./55_linear_diophantine_equations.cpp) |
+
 
 
 
