@@ -122,6 +122,8 @@ Maths & logic problems help you:
 | 51 | Pascal Triangle (Nth Row) | 🟠 Medium | GeeksforGeeks | 🔗 [View Problem](https://www.geeksforgeeks.org/problems/pascal-triangle0652/1) | 📄 [51_pascal_triangle.cpp](./51_pascal_triangle.cpp) |
 | 52 | Largest Prime Factor | 🟠 Medium | GeeksforGeeks | 🔗 [View Problem](https://www.geeksforgeeks.org/problems/largest-prime-factor2601/1) | 📄 [52_largest_prime_factor.cpp](./52_largest_prime_factor.cpp) |
 | 53 | Modular Exponentiation | 🟠 Medium | GeeksforGeeks | 🔗 [View Problem](https://www.geeksforgeeks.org/problems/modular-exponentiation-for-large-numbers5537/1) | 📄 [53_modular_exponentiation.cpp](./53_modular_exponentiation.cpp) |
+| 54 | Check Perfect Square | 🟢 Easy | GeeksforGeeks | 🔗 [View Problem](https://www.geeksforgeeks.org/problems/check-perfect-square5253/1) | 📄 [54_check_perfect_square.cpp](./54_check_perfect_square.cpp) |
+
 
 
 
