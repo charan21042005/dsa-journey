@@ -125,6 +125,9 @@ Maths & logic problems help you:
 | 54 | Check Perfect Square | 🟢 Easy | GeeksforGeeks | 🔗 [View Problem](https://www.geeksforgeeks.org/problems/check-perfect-square5253/1) | 📄 [54_check_perfect_square.cpp](./54_check_perfect_square.cpp) |
 | 55 | Linear Diophantine Equations | 🟢 Easy | GeeksforGeeks | 🔗 [View Problem](https://www.geeksforgeeks.org/problems/linear-diophantine-equations5649/1) | 📄 [55_linear_diophantine_equations.cpp](./55_linear_diophantine_equations.cpp) |
 | 56 | Power Set | 🟠 Medium | GeeksforGeeks | 🔗 [View Problem](https://www.geeksforgeeks.org/problems/power-set4302/1) | 📄 [56_power_set.cpp](./56_power_set.cpp) |
+| 57 | Next Permutation | 🟠 Medium | GeeksforGeeks | 🔗 [View Problem](https://www.geeksforgeeks.org/problems/next-permutation5226/1) | 📄 [57_next_permutation.cpp](./57_next_permutation.cpp) |
+| 58 | Super Primes | 🟠 Medium | GeeksforGeeks | 🔗 [View Problem](https://www.geeksforgeeks.org/problems/super-primes2443/1) | 📄 [58_super_primes.cpp](./58_super_primes.cpp) |
+
 
 
 
