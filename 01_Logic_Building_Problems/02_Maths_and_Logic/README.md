@@ -127,6 +127,8 @@ Maths & logic problems help you:
 | 56 | Power Set | 🟠 Medium | GeeksforGeeks | 🔗 [View Problem](https://www.geeksforgeeks.org/problems/power-set4302/1) | 📄 [56_power_set.cpp](./56_power_set.cpp) |
 | 57 | Next Permutation | 🟠 Medium | GeeksforGeeks | 🔗 [View Problem](https://www.geeksforgeeks.org/problems/next-permutation5226/1) | 📄 [57_next_permutation.cpp](./57_next_permutation.cpp) |
 | 58 | Super Primes | 🟠 Medium | GeeksforGeeks | 🔗 [View Problem](https://www.geeksforgeeks.org/problems/super-primes2443/1) | 📄 [58_super_primes.cpp](./58_super_primes.cpp) |
+| 59 | Tower of Hanoi | 🟠 Medium | GeeksforGeeks | 🔗 [View Problem](https://www.geeksforgeeks.org/problems/tower-of-hanoi-1587115621/1) | 📄 [59_tower_of_hanoi.cpp](./59_tower_of_hanoi.cpp) |
+
 
 
 
